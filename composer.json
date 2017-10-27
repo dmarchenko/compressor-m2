@@ -1,6 +1,7 @@
 {
   "name": "potato/test",
   "version": "1.0.2",
+  "minimum-stability": "stable"
   "dist": {
     "url": "http://m2.potatocommerce.com/potatocommerce-m2_compressor-1.0.2.zip",
     "type": "zip"
