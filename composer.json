@@ -1,10 +1,11 @@
 {
     "name": "potato/test",
-    "version": "1.0.0",
+    "version": "dev-master",
+    "license": "MIT",
     "type": "package",
     "package": {
         "name": "potato/compressor-m2",
-        "version": "1.0.2",
+        "version": "dev-master",
         "dist": {
           "type": "zip",
           "url": "http://m2.potatocommerce.com/m22/potatocommerce-m2_compressor-1.0.2.zip"
