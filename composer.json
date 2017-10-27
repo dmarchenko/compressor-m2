@@ -3,8 +3,8 @@
     "version": "1.0.3",
     "license": "MIT",
     "type": "package",
-    "autoload": {
-        "classmap": ["lessc.inc.php"]
+    "config": {
+        "secure-http": "false"
     },
     "dist": {
         "url": "http://m2.potatocommerce.com/m22/potatocommerce-m2_compressor-1.0.2.zip",
