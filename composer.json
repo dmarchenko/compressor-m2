@@ -1,21 +1,12 @@
 {
-  "name": "potato/test",
-  "version": "1.0.2",
-  "minimum-stability": "dev",
-  "dist": {
-    "url": "http://m2.potatocommerce.com/potatocommerce-m2_compressor-1.0.2.zip",
-    "type": "zip"
-  },
+    "name": "smarty/smarty",
+    "version": "3.1.7",
+    "dist": {
+        "url": "http://www.smarty.net/files/Smarty-3.1.7.zip",
+        "type": "zip"
+    },
   "license": [
         "OSL-3.0",
         "AFL-3.0"
-    ],
-  "require": {
-        "react/socket-client": "^0.4",
-        "react/http": "dev-master",
-        "seld/jsonlint": "dev-nope",
-        "foo/madeup": "dev-master",
-        "relution-developments/carbon-php": "*",
-        "php-pm/php-pm": "dev-master"
-    }
+    ]
 }
