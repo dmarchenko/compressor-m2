@@ -5,6 +5,10 @@
     "url": "http://m2.potatocommerce.com/potatocommerce-m2_compressor-1.0.2.zip",
     "type": "zip"
   },
+  "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
   "require": {
         "react/socket-client": "^0.4",
         "react/http": "dev-master",
