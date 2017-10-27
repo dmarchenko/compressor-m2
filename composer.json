@@ -2,6 +2,7 @@
     "name": "potato/test",
     "version": "1.0.0",
     "license": "MIT",
+    "type": "package",
     "dist": {
         "url": "http://m2.potatocommerce.com/m22/potatocommerce-m2_compressor-1.0.2.zip",
         "type": "zip"
