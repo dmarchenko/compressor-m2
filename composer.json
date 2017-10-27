@@ -1,6 +1,6 @@
 {
     "name": "potato/test",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "license": "MIT",
     "type": "package",
     "config": {
