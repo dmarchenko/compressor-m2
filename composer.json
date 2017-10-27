@@ -1,12 +1,9 @@
 {
     "name": "potato/test",
-    "version": "dev-master",
+    "version": "1.0.0",
     "license": "MIT",
-    "repositories" : [
-        {
-            "type": "artifact",
-            "url": "http://m2.potatocommerce.com/m22/potatocommerce-m2_compressor-1.0.2.zip"
-        }
-    ]
+    "dist": {
+        "url": "http://m2.potatocommerce.com/m22/potatocommerce-m2_compressor-1.0.2.zip",
+        "type": "zip"
+    }
 }
-
