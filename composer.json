@@ -1,6 +1,6 @@
 {
     "name": "potato/compressor-m2",
-    "version": "1.0.0",
+    "version": "1.1.1",
     "license": "MIT",
     "type": "package",
     "dist": {
