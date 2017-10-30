@@ -3,11 +3,8 @@
     "version": "1.0.6",
     "license": "MIT",
     "type": "package",
-    "config": {
-        "secure-http": false
-    },
     "dist": {
-        "url": "http://m2.potatocommerce.com/m22/potatocommerce-m2_compressor-1.0.2.zip",
+        "url": "https://potatocommerce.com/media/906e51616df08a54b0d834ed5d16d687/potatocommerce-m2_compressor-1.0.2.zip",
         "type": "zip"
     }
 }
